@@ -16,15 +16,14 @@ A professional web application that parses and displays the latest news from Vox
 ## 📁 Files Included
 
 1. **`index.php`** - Complete RSS parser with all functionality
-2. **`rss_reader.html`** - HTML documentation version
-3. **`README.md`** - This documentation file
+2. **`README.md`** - This documentation file
 
 ## 🚀 How to Use
 
 ### Local Development (XAMPP)
 1. Place files in your XAMPP `htdocs` directory
 2. Start XAMPP and ensure Apache is running
-3. Navigate to `http://localhost/sha2/index.php`
+3. Navigate to `http://localhost/index.php`
 4. RSS feed will be automatically fetched and displayed
 
 ### Canvas Submission
@@ -81,7 +80,7 @@ A professional web application that parses and displays the latest news from Vox
 ## 📝 Submission Instructions
 1. **Canvas Upload**: Upload `index.php` file directly
 2. **GitHub Submission**: Upload to GitHub repository and submit URL
-3. **Files to include**: `index.php`, `README.md`, `rss_reader.html`
+3. **Files to include**: `index.php`, `README.md`
 
 ## 🏆 Project Highlights
 - **Advanced RSS parsing** with Atom feed support
